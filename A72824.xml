@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prices and rates that euerye perticuler person ovveth to pay for his fayre or passage, vnto watermen, or whyrrymen from Londo[n] to Grauesende, and likewise from Grauesende to London, and to euery commen landyng place, betwene the sayd two places, and the rates and pryces also of an hole fare in a whyrye, tylte bote, or tyde bote, to and from any of the said places hereafter breyfelye appeareth.</title>
+            <author>Watermen's Company (London, England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1555</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A72824</idno>
+            <idno type="STC">STC 16787.6</idno>
+            <idno type="STC">ESTC S125116</idno>
+            <idno type="EEBO-CITATION">99898802</idno>
+            <idno type="PROQUEST">99898802</idno>
+            <idno type="VID">151072</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A72824)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151072)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1997:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prices and rates that euerye perticuler person ovveth to pay for his fayre or passage, vnto watermen, or whyrrymen from Londo[n] to Grauesende, and likewise from Grauesende to London, and to euery commen landyng place, betwene the sayd two places, and the rates and pryces also of an hole fare in a whyrye, tylte bote, or tyde bote, to and from any of the said places hereafter breyfelye appeareth.</title>
+                  <author>Watermen's Company (London, England)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>J. Cawood,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1555]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inland water transportation --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="table_of_prices">
+            <pb facs="tcp:151072:1"/>
+            <!-- PDF PAGE 6 -->
+            <head>¶<hi>The Prices and Rates that euerye perticuler perſon ovveth to pay for his fayre or paſſage,</hi> vnto Watermen, or Whyrrymen from Londo<g ref="char:cmbAbbrStroke">̄</g> to Graueſ<g ref="char:EOLhyphen"/>ende, and likewiſe from Graueſende to London, and to euery commen landyng place, betwene the ſayd two places, and the rates and pryces alſo of an hole fare in a Whyrye, Tylte Bote, or tyde Bote, to and from any of the ſaid places hereafter breyfelye appeareth.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell>From Lon<g ref="char:EOLunhyphen"/>don to</cell>
+                     <cell cols="2"> </cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Graueſend</cell>
+                     <cell>
+                        <hi>
+                           <seg rend="decorInit">A</seg>
+                        </hi> Paſſenger in the common Bardge.</cell>
+                     <cell>ii d.</cell>
+                  </row>
+                  <row>
+                     <cell>In a Tylte Boate with foure ores.</cell>
+                     <cell>.iiii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>Item for the hole fare of a Whyrye to or fro eyther of the ſayde places.</cell>
+                     <cell>ii.s.</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Grenehyth<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and grayes Choroke.</cell>
+                     <cell>A paſſinger in a tyde boate ſo that there be twelue in numbre.</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>The hole fare of a Tylte boate with .iiii. ores and a ſtereſman.</cell>
+                     <cell>vi.s</cell>
+                  </row>
+                  <row>
+                     <cell>And of a Whyrrye with two ores.</cell>
+                     <cell>xx.d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Purflete.</cell>
+                     <cell>A paſſinger in a tyde bote ſo there be ten in number.</cell>
+                     <cell>i.d</cell>
+                  </row>
+                  <row>
+                     <cell>The hole fare of a tylt boate with foure ores and a ſtereſman.</cell>
+                     <cell>v.s</cell>
+                  </row>
+                  <row>
+                     <cell>A Whyrrey with two ores.</cell>
+                     <cell>xviii.d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="3">Raynam &amp; Erythe.</cell>
+                     <cell>A paſſynger in the tyde Boate.</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>The hole fare of a tylte boate with foure ores &amp; a ſtereſman.</cell>
+                     <cell>v.s.</cell>
+                  </row>
+                  <row>
+                     <cell>And of a Whyrrey with two ores.</cell>
+                     <cell>xvi.d</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Wolwich.</cell>
+                     <cell>A paſſinger in the tyde Boate.</cell>
+                     <cell>i.d.</cell>
+                  </row>
+                  <row>
+                     <cell>The hole fare of a Whyrrey with two ores.</cell>
+                     <cell>xii.d</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">Grenewi<g ref="char:EOLhyphen"/>che.</cell>
+                     <cell>The whole fare of a whyrrey with ii. ores with the tyde.</cell>
+                     <cell>viii.d</cell>
+                  </row>
+                  <row>
+                     <cell>And agaynſt the tyde.</cell>
+                     <cell>xii.d.</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">From Rat<g ref="char:EOLunhyphen"/>life to gren<g ref="char:EOLunhyphen"/>wich.</cell>
+                     <cell>The hole fare of a Whyrrey with ii. ores with the tyde.</cell>
+                     <cell>iiii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>And agaynſt the tyde.</cell>
+                     <cell>vi.d</cell>
+                  </row>
+                  <row>
+                     <cell rows="2">From lon<g ref="char:EOLhyphen"/>don to Rat<g ref="char:EOLunhyphen"/>life or lyme houſe.</cell>
+                     <cell>The hole fare of a Whyrrey with two ores with the tyde.</cell>
+                     <cell>iiii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>And agaynſt the tyde.</cell>
+                     <cell>vi.d.</cell>
+                  </row>
+                  <row>
+                     <cell>From Lio<g ref="char:cmbAbbrStroke">̄</g> key or. S. Olaues.</cell>
+                     <cell>The hole fare of a whyrrey with two ores to .S Katerins or Rad<g ref="char:EOLhyphen"/>ryffe or other places of lyke dyſtaunce.</cell>
+                     <cell>ii.d.</cell>
+                  </row>
+                  <row>
+                     <cell>A commer into ani boa<g ref="char:EOLunhyphen"/>te by the way.</cell>
+                     <cell cols="2">No perſon that ſhal come a borde of any of the ſaid boates by the way betwene London and Graueſend, ſhall paye for hys fare aboue the pryce afore lymytted.</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
